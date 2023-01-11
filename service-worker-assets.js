@@ -33,15 +33,15 @@
       "url": "_framework\/icudt.dat"
     },
     {
-      "hash": "sha256-+3AwYgbnCje5IxnsPbMateQccL4kzfOlcuvkk07EXnI=",
+      "hash": "sha256-MNeYxkf0qBWosI\/A2Q4ZvgUnCm+XhViJ6K7YnWUSguk=",
       "url": "_framework\/blazor.boot.json"
     },
     {
-      "hash": "sha256-0Wt5iN8P7+Nnbud1HXC1otr0uvObVbeK8lRtuOXTNT4=",
+      "hash": "sha256-PYMZzwX2tjOOPe6Qx+s9BesyJlwajSsqXiQx0O9axFE=",
       "url": "_framework\/BlazorApp1.dll"
     },
     {
-      "hash": "sha256-dgLaZXSmogD3s0vxNhOpvVQn6zx4+yMM+Fr+JCvoIEA=",
+      "hash": "sha256-S9Su2hIixek1pKhn85HJhY5f3ofHjRTv\/nAIbJotBaw=",
       "url": "_framework\/Microsoft.AspNetCore.Components.dll"
     },
     {
@@ -137,7 +137,7 @@
       "url": "_framework\/System.Private.Uri.dll"
     },
     {
-      "hash": "sha256-2jLmgDgRFNF2cZahH\/\/tMc+yHcnkSE8nOGDsJ8dQ9ao=",
+      "hash": "sha256-IiNZFxuecNmRLalXuxeiBSv4s7onYubTn1w2paJlSy4=",
       "url": "_framework\/System.Runtime.dll"
     },
     {
@@ -217,12 +217,16 @@
       "url": "icon-512.png"
     },
     {
-      "hash": "sha256-w0YK9gj6BZr9QOhBUXO2wei9RkgC5jSB7Xcf6+EwbwA=",
+      "hash": "sha256-qNEtyvNhKRK\/52cf+ceUTEL16eFNMSyxWYa3QjEoIvc=",
       "url": "index.html"
     },
     {
       "hash": "sha256-iY2DBjIlNIaAWncN8PAkaQvquHEdsXlWpO3teBzIs28=",
       "url": "loader.svg"
+    },
+    {
+      "hash": "sha256-s3yC0U947EbnsDIfYy\/qq6hY7x0J19WUt4kKJNDe63g=",
+      "url": "lottie\/CatsLottieAnimations\/(7).json"
     },
     {
       "hash": "sha256-qgaP4fyShsDkJeVq\/MieHlhmAlRbasA47c0AKPDpnfo=",
@@ -231,7 +235,15 @@
     {
       "hash": "sha256-paIeuWnSzjeLGITWkk4p3rcejUsZWCJGPeOK9UhWXtg=",
       "url": "sample-data\/weather.json"
+    },
+    {
+      "hash": "sha256-2WJ3JUGdQuzIDQcO5uX0jNIOrIxjZycUwv0keSaFBdk=",
+      "url": "scripts\/sounds.js"
+    },
+    {
+      "hash": "sha256-A2kMMVL\/xkOVKde6IHOW4TpkX3dMaA1EI1mX99P87qM=",
+      "url": "sound\/correct.mp3"
     }
   ],
-  "version": "6pmou8VH"
+  "version": "9bweLFID"
 };
