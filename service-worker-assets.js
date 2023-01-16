@@ -33,11 +33,11 @@
       "url": "_framework\/icudt.dat"
     },
     {
-      "hash": "sha256-HcSUo5mj8CL4qtJ7SJQHJrUcvfdCXepgldHntZkMmAs=",
+      "hash": "sha256-y37FAwqmPcmmO8aKIuS7+w35EPO0sKfKRb90nX6y5uQ=",
       "url": "_framework\/blazor.boot.json"
     },
     {
-      "hash": "sha256-nnQ+HhHV9tXOm3bZk8Bhq42nfFDug\/5YbjxnmAEtv50=",
+      "hash": "sha256-HD3nzqDoRjX9L8hqFo+RsJXc\/505V6PzuSjGMSQiMpU=",
       "url": "_framework\/BlazorApp1.dll"
     },
     {
@@ -157,7 +157,7 @@
       "url": "BlazorApp1.styles.css"
     },
     {
-      "hash": "sha256-10KEeWxsgry5D9LUZc0K86lpIg9RcWdyyBB5sXq6Ypk=",
+      "hash": "sha256-uhotZszkBLq\/V8xt8UtpU6lGHEIqbqLsFUVGyelV2TU=",
       "url": "css\/app.css"
     },
     {
@@ -169,7 +169,7 @@
       "url": "css\/bootstrap\/bootstrap.min.css.map"
     },
     {
-      "hash": "sha256-+Q44zfEaCMmXduni5Td+IgCbk8sSUQwES2nWs+KKQz0=",
+      "hash": "sha256-jA4J4h\/k76zVxbFKEaWwFKJccmO0voOQ1DbUW+5YNlI=",
       "url": "css\/open-iconic\/FONT-LICENSE"
     },
     {
@@ -185,7 +185,7 @@
       "url": "css\/open-iconic\/font\/fonts\/open-iconic.otf"
     },
     {
-      "hash": "sha256-oUpLdS+SoLJFwf4bzA3iKD7TCm66oLkTpAQlVJ2s1wc=",
+      "hash": "sha256-+P1oQ5jPzOVJGC52E1oxGXIXxxCyMlqy6A9cNxGYzVk=",
       "url": "css\/open-iconic\/font\/fonts\/open-iconic.svg"
     },
     {
@@ -197,11 +197,11 @@
       "url": "css\/open-iconic\/font\/fonts\/open-iconic.woff"
     },
     {
-      "hash": "sha256-s\/Is6Ey6jfNAEfXUIOyHrXXX+RcA8hzchYnuOIWUMl4=",
+      "hash": "sha256-aF5g\/izareSj02F3MPSoTGNbcMBl9nmZKDe04zjU\/ss=",
       "url": "css\/open-iconic\/ICON-LICENSE"
     },
     {
-      "hash": "sha256-f7rXj2KSx8rOrKHjkkyN+tLJV5mfHEDVLGIZvcj\/hgg=",
+      "hash": "sha256-waukoLqsiIAw\/nXpsKkTHnhImmcPijcBEd2lzqzJNN0=",
       "url": "css\/open-iconic\/README.md"
     },
     {
@@ -217,7 +217,7 @@
       "url": "icon-512.png"
     },
     {
-      "hash": "sha256-qNEtyvNhKRK\/52cf+ceUTEL16eFNMSyxWYa3QjEoIvc=",
+      "hash": "sha256-n6gQRj8ky54hQVULqYWClQMzjneMeMfoq7iZfzztBEE=",
       "url": "index.html"
     },
     {
@@ -229,15 +229,15 @@
       "url": "lottie\/CatsLottieAnimations\/(7).json"
     },
     {
-      "hash": "sha256-qgaP4fyShsDkJeVq\/MieHlhmAlRbasA47c0AKPDpnfo=",
+      "hash": "sha256-mPIXJ7rM21ZdiDMG5MhOGWQkyqMqxakiLV6Yn3qMvMA=",
       "url": "manifest.json"
     },
     {
-      "hash": "sha256-paIeuWnSzjeLGITWkk4p3rcejUsZWCJGPeOK9UhWXtg=",
+      "hash": "sha256-enKgCMkYmCpfEcmg6Annbmc40VZ\/A6aYYSQjZfVn2cU=",
       "url": "sample-data\/weather.json"
     },
     {
-      "hash": "sha256-2WJ3JUGdQuzIDQcO5uX0jNIOrIxjZycUwv0keSaFBdk=",
+      "hash": "sha256-vKBYl6uo8sxMqvmZyZvMhr0KSJP2h0cPgSW2aJgSvZs=",
       "url": "scripts\/sounds.js"
     },
     {
@@ -245,5 +245,5 @@
       "url": "sound\/correct.mp3"
     }
   ],
-  "version": "G9BDfeS\/"
+  "version": "HOiVcrkP"
 };
