@@ -3,7 +3,7 @@
 @inject NavigationManager navManager
 
 <PageTitle>Animation & sound</PageTitle>
-<lottie-player src="@navManager.BaseUri)/lottie/CatsLottieAnimations/(@Id).json" speed="1" loop autoplay></lottie-player>
+<lottie-player src="@(navManager.BaseUri)/lottie/CatsLottieAnimations/(@Id).json" speed="1" loop autoplay></lottie-player>
 <audio id="sound" src="sound/correct.mp3" />
 <button id="soundButton" @onclick="PlaySound">Click me</button>
 
