@@ -217,7 +217,7 @@
       "url": "icon-512.png"
     },
     {
-      "hash": "sha256-dxYuQgBMBlqJPQ8OdfmYIWrUbPbDX9J2AMYC6QyvYaM=",
+      "hash": "sha256-laD2ywdLZD5wYTKoLVYZtD+goeh9iVStlaWd/iN5hFs=",
       "url": "index.html"
     },
     {
@@ -237,8 +237,8 @@
       "url": "sample-data\/weather.json"
     },
     {
-      "hash": "sha256-042hwx2ZzOXY1MwB+bX1k7MFpC5P8rq14MwXAoV7AnQ=",
-      "url": "scripts\/lottieLib.js"
+      "hash": "sha256-GPUV3AkQ+T2pQXdVxsIiZ+WB0ZT8Qa5Qqrxg4c7NKrY=",
+      "url": "scripts\/lottie-player.js"
     },
     {
       "hash": "sha256-vKBYl6uo8sxMqvmZyZvMhr0KSJP2h0cPgSW2aJgSvZs=",
@@ -249,5 +249,5 @@
       "url": "sound\/correct.mp3"
     }
   ],
-  "version": "Rki5zouB"
+  "version": "BIJwwJkA"
 };
