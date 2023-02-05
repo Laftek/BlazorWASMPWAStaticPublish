@@ -33,15 +33,15 @@
       "url": "_framework\/icudt.dat"
     },
     {
-      "hash": "sha256-QIFRJDSmplRjISDRROiyBtMVAs8pY8t5EGPjKBovIFY=",
+      "hash": "sha256-91SoGMBelvlNPECi1GcvGZF0xnK6E16TgeLAXOoBBu8=",
       "url": "_framework\/blazor.boot.json"
     },
     {
-      "hash": "sha256-CIs7dNe\/V9G\/XlEapMrpwFHk+tNpIjgnIpq3lM8EvaM=",
+      "hash": "sha256-1hWElqF1L6oPejM7JNz9SKb70o13LiCG9cLXxgw2rKU=",
       "url": "_framework\/BlazorApp1.dll"
     },
     {
-      "hash": "sha256-S9Su2hIixek1pKhn85HJhY5f3ofHjRTv\/nAIbJotBaw=",
+      "hash": "sha256-dgLaZXSmogD3s0vxNhOpvVQn6zx4+yMM+Fr+JCvoIEA=",
       "url": "_framework\/Microsoft.AspNetCore.Components.dll"
     },
     {
@@ -137,7 +137,7 @@
       "url": "_framework\/System.Private.Uri.dll"
     },
     {
-      "hash": "sha256-IiNZFxuecNmRLalXuxeiBSv4s7onYubTn1w2paJlSy4=",
+      "hash": "sha256-B7usdcNAf2HcE1gmg0Qw9EBci6JZ\/lLdk0p3BeXA\/pQ=",
       "url": "_framework\/System.Runtime.dll"
     },
     {
@@ -155,6 +155,10 @@
     {
       "hash": "sha256-OVn8TM1v87NwR5y2ox7VYaY2i7Zhg4kR9+GLA0uq94I=",
       "url": "BlazorApp1.styles.css"
+    },
+    {
+      "hash": "sha256-7Y9WUJt6tLMlfaj3sY3sSBJNQd\/6RJPlrweaJt+hPiQ=",
+      "url": "Pages\/LottieDisplay.razor.js"
     },
     {
       "hash": "sha256-txCqglyCAsyDL\/X8pFqjdxaTbwN1DoNS8azOb7Rs5qI=",
@@ -217,7 +221,7 @@
       "url": "icon-512.png"
     },
     {
-      "hash": "sha256-laD2ywdLZD5wYTKoLVYZtD+goeh9iVStlaWd/iN5hFs=",
+      "hash": "sha256-79yFbAc+/+qVGeHt99vgvy9F61NIhYuZ5e4wGVMPtjU=",
       "url": "index.html"
     },
     {
@@ -241,6 +245,10 @@
       "url": "scripts\/lottie-player.js"
     },
     {
+      "hash": "sha256-OzANR29EWwCs61NKta73+u5\/SEMVpmGegdQq2xBThEo=",
+      "url": "scripts\/lottie.js"
+    },
+    {
       "hash": "sha256-vKBYl6uo8sxMqvmZyZvMhr0KSJP2h0cPgSW2aJgSvZs=",
       "url": "scripts\/sounds.js"
     },
@@ -249,5 +257,5 @@
       "url": "sound\/correct.mp3"
     }
   ],
-  "version": "9uUX\/z4Q"
+  "version": "j+IX3BX0"
 };
