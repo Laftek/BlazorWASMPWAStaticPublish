@@ -221,7 +221,7 @@
       "url": "icon-512.png"
     },
     {
-      "hash": "sha256-79yFbAc+/+qVGeHt99vgvy9F61NIhYuZ5e4wGVMPtjU=",
+      "hash": "sha256-k0rlkr0Kekn6BVcBlcrWWbEO/ajtJObAHDyjG8QVV24=",
       "url": "index.html"
     },
     {
@@ -246,7 +246,7 @@
     },
     {
       "hash": "sha256-OzANR29EWwCs61NKta73+u5\/SEMVpmGegdQq2xBThEo=",
-      "url": "scripts\/lottie.js"
+      "url": "scripts\/lottieTest.js"
     },
     {
       "hash": "sha256-vKBYl6uo8sxMqvmZyZvMhr0KSJP2h0cPgSW2aJgSvZs=",
@@ -257,5 +257,5 @@
       "url": "sound\/correct.mp3"
     }
   ],
-  "version": "j+IX3BX0"
+  "version": "Gr9+FwD\/"
 };
