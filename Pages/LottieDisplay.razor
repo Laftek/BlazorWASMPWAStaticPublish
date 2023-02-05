@@ -4,16 +4,55 @@
 
 <PageTitle>Animation & sound</PageTitle>
 <lottie-player style="max-width:300px" src="@navManager.BaseUri/lottie/CatsLottieAnimations/(@Id).json" speed="1" loop autoplay></lottie-player>
-<audio id="sound" src="@navManager.BaseUri/sound/correct.mp3" />
-<button id="soundButton" @onclick="PlaySound">Click me to play "correct" sound</button>
+@*<audio id="sound" src="@navManager.BaseUri/sound/correct.mp3" preload="auto"/>
+<button id="soundButton" @onclick="PlaySound">Click me to play "correct" sound</button>*@
+
+<audio id="audioElement" src="@navManager.BaseUri/sound/correct.mp3" controls />
+<button @onclick="PlayAudio">Click me to play "correct" sound</button>
+
+@canPlay
 
 @code {
     [Parameter]
     public int Id { get; set; }
     public string lottieFolderName { get; set; } = "CatsLottieAnimations";
+    IJSObjectReference? jsWrapper { get; set; }
+    public bool canPlay { get; set; }
+
 
     public async Task PlaySound()
     {
         await JSRuntime.InvokeAsync<string>("PlayAudio", "sound");
+    }
+
+
+    protected override async Task OnAfterRenderAsync(bool firstRender)
+    {
+        if (firstRender)
+        {
+            jsWrapper = await JSRuntime.InvokeAsync<IJSObjectReference>("import", "./Pages/LottieDisplay.razor.js");
+            //await jsWrapper.InvokeVoidAsync("playAudio", "audioElement");
+            //await jsWrapper.InvokeVoidAsync("stopAudio", "audioElement");
+        }
+
+    }
+
+
+    private async void PlayAudio()
+    {
+        //if (canPlay)
+        await jsWrapper.InvokeVoidAsync("playAudio", "audioElement");
+    }
+
+    private void CanPlay()
+    {
+        canPlay = true;
+        //StateHasChanged();
+    }
+
+    private async Task RestartAudio()
+    {
+        await jsWrapper.InvokeVoidAsync("playAudio", "audioElement");
+        await jsWrapper.InvokeVoidAsync("stopAudio", "audioElement");
     }
 }
