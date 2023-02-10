@@ -33,11 +33,11 @@
       "url": "_framework\/icudt.dat"
     },
     {
-      "hash": "sha256-91SoGMBelvlNPECi1GcvGZF0xnK6E16TgeLAXOoBBu8=",
+      "hash": "sha256-CaripbL3EbX1l3Z49V423LLB\/GPy9s8\/zry9+f7MpxA=",
       "url": "_framework\/blazor.boot.json"
     },
     {
-      "hash": "sha256-1hWElqF1L6oPejM7JNz9SKb70o13LiCG9cLXxgw2rKU=",
+      "hash": "sha256-5Pe9rWopXcCizkaKf7q1Qm0Zq2fbIB6dWgXBETTmM2A=",
       "url": "_framework\/BlazorApp1.dll"
     },
     {
@@ -221,7 +221,7 @@
       "url": "icon-512.png"
     },
     {
-      "hash": "sha256-k0rlkr0Kekn6BVcBlcrWWbEO/ajtJObAHDyjG8QVV24=",
+      "hash": "sha256-RI/KyjHOLDH+iBAGOp2fM3Z9QnH7KndaHAWwpHwNu0E=",
       "url": "index.html"
     },
     {
@@ -255,7 +255,11 @@
     {
       "hash": "sha256-A2kMMVL\/xkOVKde6IHOW4TpkX3dMaA1EI1mX99P87qM=",
       "url": "sound\/correct.mp3"
+    },
+    {
+      "hash": "sha256-EV+VjMGX68haBSmHEW3rOmtcYYmrVjUi4qODPaYo\/Tw=",
+      "url": "sw-registrator.js"
     }
   ],
-  "version": "Gr9+FwD\/"
+  "version": "T8SwGIAu"
 };
