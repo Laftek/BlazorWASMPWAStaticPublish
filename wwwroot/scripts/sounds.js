@@ -1,3 +1,3 @@
-﻿window.PlayAudio = (elementName) => {
-    document.getElementById(elementName).play();
+﻿window.PlayAudio = (elementNames) => {
+    document.getElementById(elementNames).play();
 }
