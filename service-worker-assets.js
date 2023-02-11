@@ -249,7 +249,7 @@
       "url": "scripts\/lottieTest.js"
     },
     {
-      "hash": "sha256-vKBYl6uo8sxMqvmZyZvMhr0KSJP2h0cPgSW2aJgSvZs=",
+      "hash": "sha256-OmYOXYIVJhGT4u2GKIE3JJ3tg5lFioYy7L40STr6RIA=",
       "url": "scripts\/sounds.js"
     },
     {
@@ -261,5 +261,5 @@
       "url": "sw-registrator.js"
     }
   ],
-  "version": "H2SkiyyO"
+  "version": "ewmuBULG"
 };
